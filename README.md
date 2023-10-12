@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuooGG
-- 👀 I’m interested in gamedeveloping
-- 🌱 I’m currently learning C#&unity
+- 👀 I’m interested in C++ programming
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
